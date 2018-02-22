@@ -1,5 +1,4 @@
 
-
 class Config(object):
     PONY = {
         'provider': 'mysql',
