@@ -7,3 +7,4 @@ db = pony.db
 class Person(db.Entity):
     name = Required(str, 50)
     age = Required(int)
+      

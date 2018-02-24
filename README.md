@@ -1,1 +1,3 @@
 # mag
+
+flask+pony+mariadb
